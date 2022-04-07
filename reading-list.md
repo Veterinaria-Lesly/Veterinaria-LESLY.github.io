@@ -1,5 +1,5 @@
 ---
-title: AGENDA
+title: INSTALACIONES
 subtitle: CITAS
 layout: "page"
 icon: fa-book
