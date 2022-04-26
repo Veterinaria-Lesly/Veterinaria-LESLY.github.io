@@ -1,6 +1,6 @@
 ---
-title: Third Post
-author: Chris
+title: MEDICAMENTOS
+author: 
 layout: post
 icon: fa-lightbulb
 icon-style: regular
