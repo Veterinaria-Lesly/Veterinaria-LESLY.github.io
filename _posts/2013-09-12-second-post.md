@@ -1,6 +1,6 @@
 ---
-title: Second Post
-author: Chris
+title: PRECIOS
+author: 
 layout: post
 ---
 
