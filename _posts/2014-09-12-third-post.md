@@ -7,7 +7,7 @@ icon-style: regular
 ---
 
 
-<span class="image left"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
+<span class="image left"><img src="{{ 'assets/images/perro.jpg' | relative_url }}" alt="" /></span>
 
 <div class="table-wrapper">
   <table>
